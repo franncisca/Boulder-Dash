@@ -64,3 +64,4 @@ Une liste à deux dimensions pour conserver le plan.
 Les problèmes :
 1.On va afficher le même plan même si Rockford ne bouge pas.
 2.Le programme change la liste original même si on a utilisé la fonction list(). La fonction reset() ne marche pas.
+jlhlhll
